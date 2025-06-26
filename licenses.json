@@ -1,9 +1,4 @@
 {
-  "768F3097": {
-    "status": "REGISTERED"
-  },
-  "768F3094": {
-    "status": "TRIAL",
-    "start": "06-01-2025"
-  }
+  "8E3A1234": "REGISTERED",
+  "ABCD5678": "REGISTERED"
 }
