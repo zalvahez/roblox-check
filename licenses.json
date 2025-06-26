@@ -1,5 +1,5 @@
 {
-  "768F3094": { "status": "REGISTERED" },
-  "123ABC02": { "status": "TRIAL", "start": "06-01-2025" },
-  "123ABC03": { "status": "TRIAL", "start": "05-30-2025" },
+  "768F3094": { "status": "REGISTERED" }, // mihak
+  "123ABC02": { "status": "TRIAL", "start": "06-01-2025" }, // user1
+  "123ABC03": { "status": "TRIAL", "start": "05-30-2025" }, // user2
 }
